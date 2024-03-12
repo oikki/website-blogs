@@ -1,4 +1,5 @@
 13/3/2024
+![thumbnail](https://github.com/oikki/website-blogs/blob/main/blog-images/pillar%20arena.png)
 
 title: Blogging Like a Hacker
 ---
