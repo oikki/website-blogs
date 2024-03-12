@@ -1,6 +1,5 @@
 13/3/2024
-![MPV picture](https://raw.githubusercontent.com/mpv-player/mpv.io/master/source/)
-![thumbnail](https://github.com/oikki/website-blogs/blob/main/blog-images/pillar%20arena.png)
+![lorem](https://picsum.photos/200/300)
 
 title: Blogging Like a Hacker
 ---
