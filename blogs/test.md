@@ -1,5 +1,5 @@
----
-layout: post
+13/3/2024
+
 title: Blogging Like a Hacker
 ---
 
